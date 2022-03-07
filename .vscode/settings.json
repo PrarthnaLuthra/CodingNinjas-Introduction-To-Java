@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "Getting Started with Java",
+        "Conditionals and Loops",
+        "Arrays",
+        "Functions, Variables and their Scope",
+        "Patterns 1",
+        "Patterns 2",
+        "Searching and Sorting",
+        "Strings and 2D Arrays",
+        "Test 1",
+        "Test 2",
+        "Operators and for loop",
+        "Additional Practice 1",
+        "Additional Practice 2",
+        "Additional Practice 3",
+        "Additional Practice 4"
+    ]
+}
